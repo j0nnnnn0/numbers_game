@@ -1,3 +1,6 @@
+# Using the random function , we prompt the user to guess a number.
+# We introduce a loop to limit the number of guesses
+
 import random
 
 random_number = random.randint(1, 50)
