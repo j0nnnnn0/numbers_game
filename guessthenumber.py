@@ -20,6 +20,6 @@ for attempt in range(tries):
         print (f"number is too high, you have {tries -attempt -1} attempt(s) left")  
 # when you're out of tries
 else:
-    print("Out of tries, the number was",random_number)
+    print("Bad luck, you're out of tries, the number was",random_number)
 
 
