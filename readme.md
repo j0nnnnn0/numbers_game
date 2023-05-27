@@ -1,13 +1,14 @@
 # Number's game
 We want to learn Python using small and fun exercises
 
-## guess the number
+## Guess the number:
 - Using the random function , we prompt the user to guess a number.
 - We introduce a loop to limit the number of guesses
 
 ## Word Reversal:
 - Ask the user to enter a word and write a program that reverses the word and prints the result. 
 - For example, if the user enters "Python," the program should output "nohtyP."
+- We introduce a sequence index to reverse the word
 
 ## Fibonacci Sequence:
 - Write a program that generates and prints the Fibonacci sequence up to a given number of terms. 
