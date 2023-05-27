@@ -13,10 +13,13 @@ We want to learn Python using small and fun exercises
 ## Fibonacci Sequence:
 - Write a program that generates and prints the Fibonacci sequence up to a given number of terms. 
 - Prompt the user for the number of terms and then calculate and display the sequence.
+- We introduce a loop based on the user prompt
+- Then iterate and append over the fibonacci sequence
 
 ## Rock, Paper, Scissors:
 - Create a simple rock, paper, scissors game where the user can play against the computer. 
-- Prompt the user for their choice and randomly select the computer's choice. Determine the winner based on the game rules and display the result.
+- Prompt the user for their choice and randomly select the computer's choice. 
+- Determine the winner based on the game rules and display the result.
 
 ## Even or Odd:
 - Write a program that asks the user for a number and determines whether it is even or odd. 
@@ -31,5 +34,5 @@ We want to learn Python using small and fun exercises
 - Print the result.
 
 ## Palindrome Check:
-Prompt the user for a word or phrase and determine if it is a palindrome (reads the same forwards and backwards). 
+- Prompt the user for a word or phrase and determine if it is a palindrome (reads the same forwards and backwards). 
 - Print the result.
